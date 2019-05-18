@@ -1,0 +1,20 @@
+h1{
+    /* xbackground-blend-mode: soft-light; */
+    text-align: center;
+    background-color: white;
+
+}
+
+.container {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.jumbotron {
+    background-size: cover;
+    background-color: white;
+    background-image: url(https://images.unsplash.com/photo-1527839321757-ad3a2f2be351?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80);
+}
+
+.form-group {
+    font-size: 15px;
+}
